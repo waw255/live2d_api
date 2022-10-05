@@ -4,7 +4,7 @@
     "version":"Sample 1.0.0",
     "model": "chisato_event086.moc",
     "textures": [
-        "chisato_event086/textures_00.png"
+        "chisato_event086/texture_00.png"
     ],
     "physics": "physics.json",
     "layout": {
