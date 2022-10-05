@@ -1,4 +1,6 @@
 {
+    "type":"Live2D Model Setting",
+    "name":"chisato",
     "version":"Sample 1.0.0",
     "model": "chisato_event086.moc",
     "textures": [
