@@ -1,0 +1,47 @@
+{
+    "version":"Sample 1.0.0",
+    "model": "chisato_event086.moc",
+    "textures": [
+        "textures_00.png"
+    ],
+    "physics": "chisato_event086.physics",
+    "layout": {
+        "center_x": 0,
+        "center_y": -0.6,
+        "width": 3
+    },
+    "hit_areas_custom":{
+		"head_x":[-0.35, 0.6],
+		"head_y":[0.19, -0.2],
+		"body_x":[-0.3, -0.25],
+		"body_y":[0.3, -0.9]
+	},
+	"motions": {
+        "idle": [
+            {"file": "motions/angry01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/angry02.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/bye01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/cry01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/gacha01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/idle01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/kime01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf_left01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf_right01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf02.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf03.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf04.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/nf05.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/pui01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/sad01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/serious01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/shame01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/smile01_ingameV2.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/smile01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/smile02.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/smile03.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/sneeze01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/surprised01.mtn", "fade_in": 2000, "fade_out": 2000}
+        ]
+	}
+}
