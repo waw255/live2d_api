@@ -4,7 +4,7 @@
     "textures": [
         "textures_00.png"
     ],
-    "physics": "chisato_event086.physics",
+    "physics": "physics.json",
     "layout": {
         "center_x": 0,
         "center_y": -0.6,
