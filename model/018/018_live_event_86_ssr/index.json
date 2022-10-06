@@ -9,8 +9,8 @@
     ],
     "physics": "physics.json",
     "layout": {
-        "center_x": 0,
-        "center_y": 0.4,
+        "center_x": -0.3,
+        "center_y": 0.35,
         "width": 1.5
     },
     "hit_areas_custom":{
